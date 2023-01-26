@@ -1,1 +1,19 @@
-# 206_hw4_w23
+# SI 206 Homework 4 Winter 23
+
+Modify the code in HW4.py.
+
+To add this file to the staging area for a commit use:
+
+git add HW4.py
+
+To commit use:
+
+git commit -m "message"
+
+To push your commits to github use:
+
+git push
+
+Make at least 4 commits.
+
+Submit the url for your repository on github on Canvas by the due date.
