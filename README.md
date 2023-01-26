@@ -1,4 +1,4 @@
-# SI 206 Homework 4 Winter 23
+# SI 206 Winter 23 Homework 4
 
 Modify the code in HW4.py.
 
